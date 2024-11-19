@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Engineering Student, from Brazil<br><br>I have a great interest in game development and I'm starting to study to follow this path</p>
+<p align="left">I'm a Computer Engineering Student, from Brazil<br><br>I have a great interest in all areas of programming, and I am still looking for what I should pursue</p>
 
 ###
 
